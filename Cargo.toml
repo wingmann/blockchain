@@ -1,0 +1,13 @@
+[package]
+name = "blockchain"
+version = "0.1.0"
+edition = "2021"
+authors = ["Alexander Shavrov <alexander.shavrov@outlook.com>"]
+
+[dependencies]
+time = "0.1.38"
+serde = "1.0.144"
+serde_derive = "1.0.144"
+serde_json = "1.0.85"
+sha2 = "0.7.0"
+indicatif = "0.17.0"
